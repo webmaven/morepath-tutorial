@@ -1,4 +1,3 @@
-morepath-tutorial
-=================
-
-"Morepath by Example" beginners tutorial
+Morepath By Example
+===================
+A short tutorial, suitable for beginners.
