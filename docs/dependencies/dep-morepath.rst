@@ -168,3 +168,6 @@ be registered using :meth:`morepath.Config.commit`.
 
 This step ensures your configuration (model routes, views, etc) is loaded
 exactly once in a way that's reusable and extensible.
+
+Continue with :ref:`tutorial-folders`.
+

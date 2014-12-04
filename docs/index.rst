@@ -16,7 +16,10 @@ our database which comes out of the box with Python, so there is nothing else
 you need.
 
 If you want the full source code in advance or for comparison, check out the
-example source.
+`example source`_.
+
+.. _example source:
+   https://github.com/webmaven/moreblog/
 
 Contents:
 
