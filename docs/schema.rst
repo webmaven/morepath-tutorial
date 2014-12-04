@@ -60,11 +60,9 @@ Next, in ``main.py``, add the following .. code:
         morepath.autosetup()
         run_simple('localhost', 8080, App(), use_reloader=True)
 
-With this code, we are setting up the app to be run and also instantiatiating 
-the database and table that the blog posts will be stored in, and making sure
-that the app has a database session.
-
-
+With this code, we are setting up the app to be run from the console script, making
+sure that the app has a database session, and also instantiatiating the database and
+table for storing the blog posts.
 
 .. _SQLAlchemy:
     http://sqlalchemy.org
