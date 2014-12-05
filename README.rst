@@ -1,7 +1,7 @@
 Morepath By Example
 ===================
 
-`docs`_
+|docs|
 
 Purpose
 -------
@@ -11,7 +11,7 @@ A short tutorial, suitable for beginners. See the `online version`_.
 .. _online version:
    http://morepath-tutorial.readthedocs.org/en/latest/
    
-.. _docs: image:: https://readthedocs.org/projects/morepath-tutorial/badge/?version=latest
+.. |docs| image:: https://readthedocs.org/projects/morepath-tutorial/badge/?version=latest
     :alt: Documentation Status
     :scale: 100%
     :target: https://readthedocs.org/projects/morepath-tutorial/
