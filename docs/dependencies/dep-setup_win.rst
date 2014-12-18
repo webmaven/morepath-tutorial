@@ -76,7 +76,7 @@ Get a Command Line Interface (CLI)!
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 #. One of the easiest ways to get all the tools at once is from mysysGit
-#. Download and install **msysGit-fullinstall** from http://code.google.com/p/msysgit/downloads/list
+#. Download and install **msysGit-fullinstall** from http://msysgit.github.io/
 #. This will install MSYS/Mingw/GitBash (it has many names!).  
 
 ..  note::
